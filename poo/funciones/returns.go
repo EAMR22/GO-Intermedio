@@ -25,10 +25,10 @@ func getValues(x int) (double int, triple int, quad int) {
 	return
 }
 
-func main() {
-	fmt.Println(sum(2))
-	fmt.Println(sum(1, 3, 5))
-	fmt.Println(sum(1, 2, 3, 4, 5))
-	printNames("Alice", "Charlie", "Bob", "Davis")
-	fmt.Println(getValues(3))
-}
+// func main() {
+// 	fmt.Println(sum(2))
+// 	fmt.Println(sum(1, 3, 5))
+// 	fmt.Println(sum(1, 2, 3, 4, 5))
+// 	printNames("Alice", "Charlie", "Bob", "Davis")
+// 	fmt.Println(getValues(3))
+// }
